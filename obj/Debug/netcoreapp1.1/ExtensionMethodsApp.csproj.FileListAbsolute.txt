@@ -1,0 +1,9 @@
+C:\david\ExtensionMethodsApp\ExtensionMethodsApp\bin\Debug\netcoreapp1.1\ExtensionMethodsApp.deps.json
+C:\david\ExtensionMethodsApp\ExtensionMethodsApp\bin\Debug\netcoreapp1.1\ExtensionMethodsApp.runtimeconfig.json
+C:\david\ExtensionMethodsApp\ExtensionMethodsApp\bin\Debug\netcoreapp1.1\ExtensionMethodsApp.runtimeconfig.dev.json
+C:\david\ExtensionMethodsApp\ExtensionMethodsApp\bin\Debug\netcoreapp1.1\ExtensionMethodsApp.dll
+C:\david\ExtensionMethodsApp\ExtensionMethodsApp\bin\Debug\netcoreapp1.1\ExtensionMethodsApp.pdb
+C:\david\ExtensionMethodsApp\ExtensionMethodsApp\obj\Debug\netcoreapp1.1\ExtensionMethodsApp.csprojResolveAssemblyReference.cache
+C:\david\ExtensionMethodsApp\ExtensionMethodsApp\obj\Debug\netcoreapp1.1\ExtensionMethodsApp.AssemblyInfo.cs
+C:\david\ExtensionMethodsApp\ExtensionMethodsApp\obj\Debug\netcoreapp1.1\ExtensionMethodsApp.dll
+C:\david\ExtensionMethodsApp\ExtensionMethodsApp\obj\Debug\netcoreapp1.1\ExtensionMethodsApp.pdb
