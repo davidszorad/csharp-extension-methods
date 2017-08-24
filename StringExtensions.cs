@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace ExtensionMethodsApp.Extensions
+namespace System
 {
     // All our extensions should be in this class
     // Extension class ahs o be public and static and all it's methods should be public static as well
